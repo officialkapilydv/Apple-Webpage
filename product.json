@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 64990,
+        "image": "images/iphonex.png"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 45900,
+        "image": "images/iphone11.png"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 106600,
+        "image": "images/iphone11pro.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 59900,
+        "image": "images/iphone12.png"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 109900,
+        "image": "images/iphone12pro.png"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 64900,
+        "image": "images/iphone13.png"
+    },
+    {
+        "id": 6,
+        "name": "Product 7",
+        "price": 125999,
+        "image": "images/iphone13pro.png"
+    },
+    {
+        "id": 6,
+        "name": "Product 8",
+        "price": 79900,
+        "image": "images/iphone14.png"
+    },
+    {
+        "id": 6,
+        "name": "Product 9",
+        "price": 129900,
+        "image": "images/iphone14pro.png"
+    }
+]
